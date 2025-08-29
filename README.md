@@ -249,4 +249,21 @@ Step 19: Login to Kali Linux
 ## EXPECTED OUTPUT
 .sh method 
 ## PROGRAM 
+<img width="380" height="261" alt="image" src="https://github.com/user-attachments/assets/45990968-fc4b-49ff-b8bf-b942da2eec14" />
+## EXPECTED AND TERMINAL OUTPUT:
+<img width="445" height="551" alt="image" src="https://github.com/user-attachments/assets/95fe1d14-e572-43b3-a7ff-cd16340ad3f9" />
+<img width="1920" height="1057" alt="image" src="https://github.com/user-attachments/assets/5dc60ed8-cdd9-4a18-98c0-8d3cb3104387" />
+## CHMOD METHOD:
+<img width="367" height="66" alt="image" src="https://github.com/user-attachments/assets/ab1edb3f-4af5-456b-9057-3e8641813489" />
+
+## LINUX COMMANDS:
+<img width="972" height="216" alt="image" src="https://github.com/user-attachments/assets/ef6ac452-0872-4b63-a306-5febcc2190e6" />
+
+
+
+
+
+
+
+
 
